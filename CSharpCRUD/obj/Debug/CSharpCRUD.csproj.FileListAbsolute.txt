@@ -7,6 +7,3 @@ c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\ob
 c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.csproj.GenerateResource.Cache
 c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.exe
 c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.pdb
-C:\Users\papabear\Documents\Visual Studio 2013\Projects\CSharpCRUD\CSharpCRUDSeminar\CSharpCRUD\bin\Debug\CSharpCRUD.exe.config
-C:\Users\papabear\Documents\Visual Studio 2013\Projects\CSharpCRUD\CSharpCRUDSeminar\CSharpCRUD\obj\Debug\CSharpCRUD.exe
-C:\Users\papabear\Documents\Visual Studio 2013\Projects\CSharpCRUD\CSharpCRUDSeminar\CSharpCRUD\obj\Debug\CSharpCRUD.pdb

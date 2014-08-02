@@ -16,7 +16,7 @@ namespace CSharpCRUD
     {
 
         // Connectionstring that will connect mysql and .net
-       
+        private string connectionString = "Server=127.0.0.1;Database=seminar;Uid=root;Pwd=;";
 
         public Form1()
         {
