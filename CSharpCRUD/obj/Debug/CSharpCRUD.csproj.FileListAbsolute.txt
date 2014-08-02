@@ -1,0 +1,9 @@
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\bin\Debug\CSharpCRUD.exe.config
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\bin\Debug\CSharpCRUD.exe
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\bin\Debug\CSharpCRUD.pdb
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.csprojResolveAssemblyReference.cache
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.Form1.resources
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.Properties.Resources.resources
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.csproj.GenerateResource.Cache
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.exe
+c:\users\papabear\documents\visual studio 2013\Projects\CSharpCRUD\CSharpCRUD\obj\Debug\CSharpCRUD.pdb
